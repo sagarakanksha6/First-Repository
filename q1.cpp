@@ -1,5 +1,5 @@
-#include<iostream>
-using namespace std;
+eatuasajr57k5mfyxhghiogk yn#include<iostream>
+using namespace std;aZEEEEEEEEEEEEEEe
 class path
 {
 	private:
