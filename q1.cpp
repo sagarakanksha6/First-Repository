@@ -64,4 +64,23 @@ int main()
 	cin>>l>>st>>e;
 	x.display(st-1,e-1,l);
 	return 0;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	iruawgyaoeihtj
+	ephe[\
+	twqiaet
+	]j[h
+	yjs
+	zorjy
+	sprhit
+	j]p
 }
